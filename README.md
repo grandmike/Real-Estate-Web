@@ -2,7 +2,7 @@
 **Build a real estate trading platform allowing customers to post house listings, communicate with realtors and search for
 property**
 
-##Implementation
+## Implementation
 
 Develop this web application with Django and Bootstrap.
 
@@ -10,7 +10,7 @@ Manage data using PostgreSQL.
 
 Deploy on Ubuntu server using Gunicorn and Ngnix.
 
-##Preview
+## Preview
 
 - **Main page**
 <img src="screenshots/mainpage.png">
