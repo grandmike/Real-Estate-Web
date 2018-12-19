@@ -3,6 +3,7 @@
 property**
 
 ##Implementation
+
 Develop this web application with Django and Bootstrap.
 
 Manage data using PostgreSQL.
@@ -10,19 +11,20 @@ Manage data using PostgreSQL.
 Deploy on Ubuntu server using Gunicorn and Ngnix.
 
 ##Preview
-**Main page**
+
+- **Main page**
 <img src="screenshots/mainpage.png">
 
-**Registration and Login**
+- **Registration and Login**
 <img src="screenshots/reg_login.png">
 
-**House Listings**
+- **House Listings**
 <img src="screenshots/listing.png">
 
-**Search**
+- **Search**
 <img src="screenshots/search.png">
 
-**Property details and contacts with realtors**
+- **Property details and contacts with realtors**
 <img src="screenshots/detail.png">
 <img src="screenshots/contact.png">
 
